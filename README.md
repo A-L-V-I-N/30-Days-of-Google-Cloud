@@ -5,7 +5,7 @@
 
 Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud.
 
-This is the list of Quests you have to complete in this program.
+This is the list of Quests & Skill badges you have to complete in this program.[Syllabus]
 <br>
 
 <b>🏷️Track 1: Cloud Engineering Track</b>
